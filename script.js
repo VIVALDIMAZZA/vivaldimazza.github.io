@@ -221,8 +221,7 @@ document.addEventListener("DOMContentLoaded", function() {
             scrollTrigger: {
                 trigger: el,
                 start: "top 90%",
-                end: "bottom 10%",
-                toggleActions: "play reverse play reverse",
+                toggleActions: "play none none reverse",
             },
             opacity: 1,
             y: 0,
@@ -242,8 +241,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     scrollTrigger: {
                         trigger: cat,
                         start: "top 85%",
-                        end: "bottom 15%",
-                        toggleActions: "play reverse play reverse"
+                        toggleActions: "play none none reverse"
                     },
                     opacity: 1,
                     y: 0,
@@ -265,8 +263,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 scrollTrigger: {
                     trigger: "#experience",
                     start: "top 80%",
-                    end: "bottom 20%",
-                    toggleActions: "play reverse play reverse"
+                    toggleActions: "play none none reverse"
                 },
                 opacity: 1,
                 x: 0,
