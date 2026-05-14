@@ -1,0 +1,466 @@
+{
+  "personal_info": {
+    "name": "VIVALDI MAZZA",
+    "phone": "+6285363796901",
+    "email": "vivaldimazza2002@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/vivaldi-mazza",
+    "github": {
+      "github1": "https://github.com/ZAYUVALYA/",
+      "github2": "https://github.com/KREASIOKA/"
+    },
+    "location": "West Sumatra, Indonesia",
+    "summary": "A multidisciplinary digital creative professional with hands-on experience in content production, digital marketing, web development, social media management, and IT support. Skilled in planning and executing promotional content, directing talent, editing photo and video materials, managing websites, building custom web-based solutions, and maintaining brand consistency across digital platforms. Adaptable, detail-oriented, and able to handle multiple responsibilities with clarity, discipline, and strong problem-solving ability."
+  },
+  "education": [
+    {
+      "institution": "Politeknik Negeri Padang - Padang, Indonesia",
+      "period": "2021-2025",
+      "degree": "Applied Bachelor Degree in English for Business and Professional Communication, CGPA: 3.71/4.00",
+      "skills": [
+        "Communication",
+        "Content Writing",
+        "Journalistic",
+        "Public Speaking",
+        "MICE Management"
+      ]
+    },
+    {
+      "institution": "Senior Highschool Number 2 Bukitttinggi - Bukittinggi, Indonesia",
+      "major": "Social Science"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Madina Hospital Bukittinggi / Madina Foundation - Bukittinggi, Indonesia",
+      "period": "Nov 2025 - Present",
+      "role": "Digital Marketing Intern / Digital Marketer, Content Creator, Web Developer, Social Media Manager",
+      "location": "Jl. Urip Sumoharjo, Tarok Dipo, Kec. Guguk Panjang, Kota Bukittinggi, Sumatera Barat (On-site)",
+      "responsibilities": [
+        "Responsible for digital promotion and content operations across the Madina foundation ecosystem, including RSU Madina Bukittinggi, Klinik dr. HERMAN SAFAR, Apotek Lima Farma Bukittinggi, and PT. HERDANIC AFDA DIHESA.",
+        "Duties include shooting and editing promotional content, directing talents during production, and developing content concepts based on marketing needs.",
+        "Manage the official websites of Urang Digital, a new digital agency established under the IT team of RSU Madina Bukittinggi, and Klinik dr. HERMAN SAFAR Bukittinggi.",
+        "Also oversee the Instagram accounts of RS Madina, HERDANIC, and URANG DIGITAL.",
+        "In addition, develop client-requested web applications and support website-related digital operations."
+      ],
+      "linkedin_skills": [
+        "Periklanan",
+        "Pemasaran Konten"
+      ]
+    },
+    {
+      "company": "Bukittinggi City Tourism Department | Internship - Bukittinggi, Indonesia",
+      "period": "Aug 2024 - Jan 2025",
+      "role": "Content Creator & Media Development / Content Analyst, Videographer, Web Developer, IT",
+      "location": "On-site",
+      "responsibilities": [
+        "Analyzed viral content patterns and implemented them into the department's social media strategy, including planning, on-field video taking, editing, and posting to increase engagement.",
+        "Developed the Bukittinggi City Zoo website using HTML, CSS, and JavaScript.",
+        "The website features bilingual animal data and guides visitors to specific animal pages via QR codes.",
+        "Performed hardware replacement, maintenance, and upgrades, in addition to installing and upgrading Windows/Linux operating systems.",
+        "Diagnosed device issues and provided technical assistance to department employees with IT-related problems."
+      ],
+      "projects": [
+        {
+          "title": "GitHub - DISPARBKT/QR-CODE-GENERATOR",
+          "description": "Developed a custom QR Code Generator application allowing the tourism office to create unlimited QR Codes for visitor information independently without relying on third-party services."
+        },
+        {
+          "title": "GitHub - DISPARBKT/TMSBK",
+          "description": "Developed a bilingual tourism information website (Indonesian and English) for Kinantan Wildlife and Cultural Park (TMSBK). Integrated a QR Code system allowing visitors to scan and view comprehensive animal details."
+        }
+      ],
+      "linkedin_skills": [
+        "Content Design",
+        "Creative Content Creation"
+      ]
+    },
+    {
+      "company": "Crewpers | Media - Padang, Indonesia",
+      "period": "Feb 2024 - Jul 2024",
+      "role": "Web Developer",
+      "responsibilities": [
+        "Created engaging and high-quality content for various platforms, including articles, blog posts, and website content.",
+        "Utilized HTML coding to enhance layout and formatting, ensuring optimal readability and functionality.",
+        "Managed website operations and functionality in collaboration with the CREWPERS team.",
+        "Ensured seamless operation and functionality of the website, while also overseeing content quality and audience engagement."
+      ]
+    },
+    {
+      "company": "Freelance - Padang, Indonesia",
+      "period": "June 2024",
+      "role": "Video Editor",
+      "responsibilities": [
+        "Edited video content with precision to meet project deadlines and client specifications.",
+        "Collaborated with cross-functional videography teams and project leaders to align creative output with project goals.",
+        "Conducted thorough quality control to eliminate errors and ensure final deliverables met technical and artistic standards.",
+        "Implemented feedback from project leaders and clients to refine edits and maintain consistency with brand/event guidelines."
+      ]
+    },
+    {
+      "company": "English Department | Politeknik Negeri Padang - Padang, Indonesia",
+      "period": "Mar 2024",
+      "role": "Web Developer (Freelance)",
+      "location": "Remote",
+      "responsibilities": [
+        "Led the transformation of Padang State Polytechnic's English Department website, initiating on March 12, 2024.",
+        "Revamped a raw template using HTML, CSS, and JavaScript to enhance functionality and aesthetics, while tailoring sections for specific publication needs.",
+        "Crafted compelling content for various pages to improve user engagement and seamless user experience.",
+        "Collaborated closely with partners Aisyah Syahadatul Adzkia and Mohammad Farhan for file management, content creation, graphic design, and asset creation."
+      ],
+      "linkedin_skills": [
+        "Web Content Writing",
+        "HTML"
+      ]
+    },
+    {
+      "company": "Ikatan Dokter Indonesia - Padang, Indonesia",
+      "period": "Oct 2023",
+      "role": "Liaison Officer",
+      "location": "Hotel ZHM Premiere Padang (On-site)",
+      "event": "Indonesian Pediatric Society (IDAI) Annual Scientific Meeting (PIT-IKA) 2023 - Organized by Pacto Convex",
+      "responsibilities": [
+        "Operated PowerPoint presentations to support speakers during their sessions.",
+        "Collaborated with various partners and stage operators to manage stage control, facilitate seamless screen transitions, and manage files effectively.",
+        "Managed participants' presentation files and contributed to the success of a significant scientific conference for pediatricians."
+      ],
+      "linkedin_skills": [
+        "Microsoft PowerPoint",
+        "File Management"
+      ]
+    },
+    {
+      "company": "Politeknik Negeri Padang (NPEO) - Padang, Indonesia",
+      "period": "May 2022",
+      "role": "Liaison Officer",
+      "location": "Radio Studio of Padang State Polytechnic (On-site)",
+      "event": "News Casting Olympiad at the National Polytechnic English Olympics (NPEO)",
+      "responsibilities": [
+        "Coordinated participant registration and ensured adherence to eligibility criteria.",
+        "Organized practice sessions to prepare participants for the competition.",
+        "Managed participants' documents and ensured their availability throughout the event.",
+        "Facilitated seamless communication between participants and organizers while addressing logistical needs."
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": "KREASIOKA - Creative Industry Community / Digital Agency",
+      "period": "Feb 2026 - Present",
+      "role": "Agency Owner (One of Three Founders)",
+      "location": "West Sumatra, Indonesia (Hybrid)",
+      "responsibilities": [
+        "Led and helped shape a creative industry community into a multi-service digital agency, bringing together several creative businesses under one organization.",
+        "Responsible for maintaining organizational unity, managing human resources, and leading the IT and Human Resources divisions.",
+        "Also contribute to strategic coordination to support the agency's operational stability and growth."
+      ],
+      "linkedin_skills": [
+        "Search Engine Optimization (SEO)",
+        "Social Media Marketing"
+      ]
+    },
+    {
+      "name": "CREWPERS - News Media",
+      "period": "March 2024 - August 2024",
+      "role": "Website Manager",
+      "responsibilities": [
+        "Responsible for the entire publication process.",
+        "Led website management and coordinated content publication with the CREWPERS team.",
+        "Ensured seamless operation and functionality of the website, while also overseeing content quality and audience engagement.",
+        "Collaborated effectively with team members to create a compelling platform for entertainment news and insights."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "authority": "BNSP - Indonesian Professional Certification Authority / Indonesian Digital Marketing Professional Certification Agency - Padang, Indonesia",
+      "title": "Artificial Intelligence-Based Digital Marketing",
+      "date": "January 2024",
+      "competencies": [
+        "Determining Artificial Intelligence (AI) solution business goals",
+        "Planning research on a product and/or brand",
+        "Processing research data",
+        "Reviewing data",
+        "Collecting data about audiences",
+        "Analyzing consumer data",
+        "Developing advertising content strategy",
+        "Creating advertising content material",
+        "Formulating advertising campaign strategy"
+      ]
+    },
+    {
+      "authority": "Wadhwani Foundation - Padang, Indonesia",
+      "title": "21st Century Employability Skills Program - Advanced",
+      "period": "November 2025",
+      "competencies": [
+        "Understanding various communication methods, both oral and written.",
+        "Understanding how to provide excellent service and build strong customer relationships.",
+        "Systematic approaches to problem-solving and creativity in finding effective solutions.",
+        "Collaboration within a team and positive contribution to group dynamics.",
+        "Skills in managing digital information and adapting to technological changes"
+      ]
+    }
+  ],
+  "skills_and_tools": {
+    "tools": [
+      "Microsoft Office",
+      "Google Services",
+      "Blogger",
+      "CapCut",
+      "Canva",
+      "VSCode",
+      "GitHub",
+      "Vercel",
+      "AntiGravity"
+    ],
+    "skills": [
+      "Content Writing",
+      "Communication",
+      "Public Speaking",
+      "Journalistic",
+      "MICE Management",
+      "Critical Thinking",
+      "Creative Problem Solving",
+      "Scriptwriting",
+      "Search Engine Optimization (SEO)",
+      "File Management",
+      "Web Development (HTML, CSS, JavaScript)",
+      "IT Troubleshooting (OS & Hardware)",
+      "Hardware Maintenance & Upgrades",
+      "Customer Service & Relationship Building",
+      "Teamwork & Collaboration",
+      "English",
+      "Business English"
+    ],
+    "languages": [
+      "Bahasa Indonesia (Native)",
+      "English (Advanced)"
+    ]
+  },
+  "downloadable_files": {
+    "cv_pdf": "assets/files/CV Vivaldi Mazza.pdf",
+    "bnsp_certificate": "assets/files/BNSP - AI BASED DIGITAL MARKETING.pdf",
+    "wadhwani_certificate": "assets/files/Wadhwani Foundation.pdf"
+  },
+  "portfolio_assets": {
+    "video_projects": [
+      {
+        "title": "Portovideo 1",
+        "image_path": "assets/img/Portovideo.webp",
+        "url": "https://www.youtube.com/watch?v=cq-ZHAkS24g"
+      },
+      {
+        "title": "Portovideo 2",
+        "image_path": "assets/img/Portovideo2.webp",
+        "url": "https://www.youtube.com/watch?v=ivr-BgfkJh4"
+      },
+      {
+        "title": "Portovideo 3",
+        "image_path": "assets/img/Portovideo3.webp",
+        "url": "https://www.youtube.com/watch?v=Z697LgaDe7k&t=26s"
+      },
+      {
+        "title": "Portovideo 4",
+        "image_path": "assets/img/Portovideo4.webp",
+        "url": "https://www.youtube.com/watch?v=-94c4KZ3VFQ"
+      },
+      {
+        "title": "Portovideo 5",
+        "image_path": "assets/img/Portovideo5.webp",
+        "url": "https://www.youtube.com/watch?v=UO-U_dA7uEs"
+      },
+      {
+        "title": "Portovideo 6",
+        "image_path": "assets/img/Portovideo6.webp",
+        "url": "https://www.youtube.com/watch?v=7O-hR0Ho7AA"
+      },
+      {
+        "title": "Portovideo 7",
+        "image_path": "assets/img/Portovideo7.webp",
+        "url": "https://www.youtube.com/watch?v=LE3j4Br0QOM"
+      },
+      {
+        "title": "Portovideo 8",
+        "image_path": "assets/img/Portovideo8.webp",
+        "url": "https://www.youtube.com/watch?v=lQ-5moHqgOc"
+      },
+      {
+        "title": "Portovideo 9",
+        "image_path": "assets/img/Portovideo9.webp",
+        "url": "https://www.youtube.com/watch?v=F7lSMi5_szg"
+      },
+      {
+        "title": "Portovideo 10",
+        "image_path": "assets/img/Portovideo10.webp",
+        "url": "https://www.youtube.com/watch?v=-NRc8kqpe14&pp=0gcJCQQLAYcqIYzv"
+      },
+      {
+        "title": "Portovideo 11",
+        "image_path": "assets/img/Portovideo11.webp",
+        "url": "https://www.youtube.com/watch?v=Qr_vIL7QKUI"
+      },
+      {
+        "title": "Portovideo 12",
+        "image_path": "assets/img/Portovideo12.webp",
+        "url": "https://www.youtube.com/watch?v=z1fu7Nz_3MM"
+      },
+      {
+        "title": "Portovideo 13",
+        "image_path": "assets/img/Portovideo13.webp",
+        "url": "https://www.youtube.com/watch?v=B8xx6qIK2N8"
+      },
+      {
+        "title": "Portovideo 14",
+        "image_path": "assets/img/Portovideo14.webp",
+        "url": "https://www.youtube.com/watch?v=mZT99J088jI"
+      },
+      {
+        "title": "Glimpse of Heaven",
+        "image_path": "assets/img/GlimpseOfHeaven.webp",
+        "url": "https://www.youtube.com/watch?v=Dbx-oqCc0io"
+      }
+    ],
+    "madina_foundation": [
+      {
+        "title": "Madina 1",
+        "image_path": "assets/img/madina1.jpg",
+        "url": "https://www.instagram.com/rsmadina/reel/DYOPMdbzM3-/"
+      },
+      {
+        "title": "Madina 2",
+        "image_path": "assets/img/madina2.jpg",
+        "url": "https://www.instagram.com/rsmadina/reel/DXqrCvTEwhY/"
+      },
+      {
+        "title": "Madina 3",
+        "image_path": "assets/img/madina3.jpg",
+        "url": "https://www.instagram.com/rsmadina/reel/DXgeAHrk0S3/"
+      },
+      {
+        "title": "Madina 4",
+        "image_path": "assets/img/madina4.jpg",
+        "url": "https://www.instagram.com/rsmadina/reel/DUsWY6Uk_q8/"
+      },
+      {
+        "title": "Madina 5",
+        "image_path": "assets/img/madina5.jpg",
+        "url": "https://www.instagram.com/klinik_dr.hermansafar/reel/DT4SePdj0CJ/"
+      },
+      {
+        "title": "Madina 6",
+        "image_path": "assets/img/madina6.jpg",
+        "url": "https://www.instagram.com/rsmadina/reel/DWFdlYvk-uD/"
+      },
+      {
+        "title": "Madina 7",
+        "image_path": "assets/img/madina7.jpg",
+        "url": "https://www.instagram.com/rsmadina/reel/DScpb68k6K2/"
+      },
+      {
+        "title": "Madina 8",
+        "image_path": "assets/img/madina8.jpg",
+        "url": "https://www.instagram.com/rsmadina/reel/DScFLLIE--Y/"
+      },
+      {
+        "title": "Madina 9",
+        "image_path": "assets/img/madina9.jpg",
+        "url": "https://www.instagram.com/rsmadina/reel/DRnzsdkkycn/"
+      }
+    ],
+    "urang_digital": [
+      {
+        "title": "Urang Digital 1",
+        "image_path": "assets/img/urdi1.jpg",
+        "url": "https://www.instagram.com/urangdigital/reel/DXyxKdQJqHL/"
+      },
+      {
+        "title": "Urang Digital 2",
+        "image_path": "assets/img/urdi2.jpg",
+        "url": "https://www.instagram.com/urangdigital/reel/DX0jN5sJ1Nb/"
+      },
+      {
+        "title": "Urang Digital 3 (Herdanics)",
+        "image_path": "assets/img/urdi3.jpg",
+        "url": "https://www.instagram.com/herdanics/reel/DXWyWepETEf/"
+      },
+      {
+        "title": "Urang Digital 4 (Indahcino)",
+        "image_path": "assets/img/urdi4.jpg",
+        "url": "https://www.instagram.com/indahcino/reel/DVGNjx9EkO3/"
+      },
+      {
+        "title": "Urang Digital 5",
+        "image_path": "assets/img/urdi5.jpg",
+        "url": "https://www.instagram.com/urangdigital/reel/DUhqSyRiQRu/"
+      },
+      {
+        "title": "Urang Digital 6",
+        "image_path": "assets/img/urdi6.jpg",
+        "url": "https://www.instagram.com/urangdigital/reel/DUSSlj2Cfsj/"
+      },
+      {
+        "title": "Urang Digital 7",
+        "image_path": "assets/img/urdi7.jpg",
+        "url": "https://www.instagram.com/urangdigital/reel/DS2PdXzCXK9/"
+      },
+      {
+        "title": "Urang Digital 8 (TikTok)",
+        "image_path": "assets/img/urdi8.jpg",
+        "url": "https://www.tiktok.com/@urangdigital/video/7582518827125067029?is_from_webapp=1&sender_device=pc&web_id=7639523381318403591"
+      }
+    ],
+    "web_projects": [
+      {
+        "title": "Kreawork",
+        "image_path": "assets/img/kreawork.jpeg",
+        "url": "https://kreawork.vercel.app/"
+      },
+      {
+        "title": "Kreasys",
+        "image_path": "assets/img/kreasys.png",
+        "url": "https://github.com/KREASIOKA/KREASYS/"
+      },
+      {
+        "title": "LinguaGenie",
+        "image_path": "assets/img/linguagenie.jpeg",
+        "url": "https://zayuvalya.github.io/LinguaGenie/"
+      }
+    ],
+    "standalone_images": [
+      {
+        "title": "DCREW 1",
+        "image_path": "assets/img/DCREW1.JPG",
+        "url": null
+      },
+      {
+        "title": "DCREW 2",
+        "image_path": "assets/img/DCREW2.png",
+        "url": null
+      },
+      {
+        "title": "Pitika 1",
+        "image_path": "assets/img/PITIKA.jpeg",
+        "url": null
+      },
+      {
+        "title": "Pitika 2",
+        "image_path": "assets/img/PITIKA2.jpeg",
+        "url": null
+      },
+      {
+        "title": "Pitika 3",
+        "image_path": "assets/img/PITIKA3.jpeg",
+        "url": null
+      },
+      {
+        "title": "Radio Studio",
+        "image_path": "assets/img/RADIOSTUDIO.jpeg",
+        "url": null
+      },
+      {
+        "title": "Hero Section",
+        "image_path": "assets/img/VIVALDIMAZZA-HERO-SECTION.png",
+        "url": null
+      }
+    ]
+  }
+}
