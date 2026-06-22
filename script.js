@@ -39,8 +39,15 @@ const portfolioData = {
     ],
     web: [
         { title: "Kreawork", path: "assets/img/kreawork.jpeg", url: "https://kreawork.vercel.app/" },
-        { title: "Kreasys", path: "assets/img/kreasys.png", url: "https://github.com/KREASIOKA/KREASYS/" },
-        { title: "LinguaGenie", path: "assets/img/linguagenie.jpeg", url: "https://zayuvalya.github.io/LinguaGenie/" }
+        { title: "Kreasys", path: "assets/img/devs/KREASYS.png", url: "https://github.com/KREASIOKA/KREASYS" },
+        { title: "ZRF Perfume", path: "assets/img/devs/ZRF Perfume.png", url: "https://zrfperfume.vercel.app/" },
+        { title: "Kampoeng Gadget", path: "assets/img/devs/KAMPOENGGADGET.png", url: "https://kampoenggadget.com/" },
+        { title: "Nadya Nur Wahyuni", path: "assets/img/devs/NadyaNurWahyuni.png", url: "https://nadyanurwahyuni.github.io/" },
+        { title: "Urang Digital", path: "assets/img/devs/UrangDigital.png", url: "https://www.urangdigital.com/" },
+        { title: "Kreasioka", path: "assets/img/devs/KREASIOKA.png", url: "https://www.kreasioka.com/" },
+        { title: "LinguaGenie", path: "assets/img/devs/LinguaGenie.png", url: "https://github.com/ZAYUVALYA/LinguaGenie" },
+        { title: "AI Text Humanizer", path: "assets/img/devs/Text Humanizer.png", url: "https://github.com/ZAYUVALYA/AI-Text-Humanizer" },
+        { title: "Chess Game", path: "assets/img/devs/ChessGame.png", url: "https://zayuvalya-chessgame.vercel.app/" }
     ],
     gallery: [
         { title: "DCREW 1", path: "assets/img/DCREW1.JPG", url: null },
@@ -108,6 +115,10 @@ document.addEventListener("DOMContentLoaded", function() {
         if (loader) {
             loader.classList.add("hidden");
         }
+        document.body.classList.remove("no-scroll");
+        if (typeof lenis !== 'undefined' && lenis) {
+            lenis.start();
+        }
         ScrollTrigger.refresh();
     }
 
@@ -133,6 +144,7 @@ document.addEventListener("DOMContentLoaded", function() {
         touchMultiplier: 2,
         infinite: false
     });
+    lenis.stop();
 
     function raf(time) {
         lenis.raf(time);
@@ -181,15 +193,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
     type();
 
-    var isMobile = window.innerWidth <= 768;
     var aboutContainer = document.getElementById("about-container");
     var aboutHeader = document.getElementById("about-header");
-    var aboutCard = document.getElementById("about-card");
 
-    if (aboutContainer && aboutCard && aboutHeader) {
-        var scaleStart = isMobile ? 0.75 : 1.1;
-        var scaleEnd = isMobile ? 0.95 : 1;
-
+    if (aboutContainer && aboutHeader) {
         var tl = gsap.timeline({
             scrollTrigger: {
                 trigger: aboutContainer,
@@ -198,11 +205,6 @@ document.addEventListener("DOMContentLoaded", function() {
                 scrub: 1.5
             }
         });
-
-        tl.fromTo(aboutCard,
-            { rotateX: 25, scale: scaleStart, opacity: 0.5 },
-            { rotateX: 0, scale: scaleEnd, opacity: 1, duration: 1, ease: "none" }
-        , 0);
 
         tl.fromTo(aboutHeader,
             { y: 50, scale: 0.9 },
